@@ -1,0 +1,32 @@
+/* reserts*/
+
+*{
+  box-sizing: border-box;
+}
+
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+/* header */
+.nav-bar{
+
+  background: #5ebacf;
+}
+
+
+.navigation-menu{
+
+
+}
+/*title */
+
+/*article */
+
+/*events */
+
+/*footer */
